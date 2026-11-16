@@ -2,10 +2,9 @@
 
 An interactive question bank built from past exams, including the latest midterm (2026, Term 2).
 
-- 362 unique questions, each solved from the lecture slides and sorted into Chapter 1 (Introduction), Chapter 2 (Application Layer) and Chapter 3 (Transport Layer).
+- 494 unique questions, each solved from the lecture slides and sorted into Chapters 1–7: Introduction, Application Layer, Transport Layer, Network Layer (Data Plane), Network Layer (Control Plane), Link Layer and LANs, and Wireless and Mobile Networks. No past exam asks about Chapter 7 yet, so it has no card for now.
 - Every solution says which slide(s) the answer comes from and which exam(s) the question appeared in.
-- Within each chapter the questions run from the newest exam to the oldest.
-- Network-layer and link-layer questions from older finals are left out, because they are not covered by the lecture slides.
+- When a solution needs textbook material that is not on the slides, it carries a note saying so.
 
 ## How to use
 

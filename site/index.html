@@ -407,7 +407,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
     main.forEach(function (n) { h += chapterCard(n); });
     h += '</div>';
     h += '<p class="note"><b>Keys:</b> <span class="kbd">←</span> <span class="kbd">→</span> move between questions, <span class="kbd">1</span>–<span class="kbd">6</span> pick an option, <span class="kbd">Enter</span> shows the solution, <span class="kbd">S</span> shuffles. Your answers are remembered in this browser only.</p>' +
-      '<p class="note" style="margin-top:.6rem">Only questions on Chapters 1–3 (Introduction, Application layer, Transport layer) are included. Network-layer and link-layer questions from older finals are left out because they are not in your slides.</p>';
+      '<p class="note" style="margin-top:.6rem">Questions cover Chapters 1–7. A few solutions use textbook material that is not on the slides; those carry a note saying so.</p>';
     app.innerHTML = h;
 
     document.getElementById("shuffleSw").addEventListener("click", function () {
